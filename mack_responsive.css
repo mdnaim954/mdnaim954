@@ -1,0 +1,70 @@
+
+
+@media (max-width: 1300px) {
+
+       .home_right img {
+           width: 500px;
+       }
+       .home_left h1 {
+           margin-top: 40px;
+           width: 250px;
+       font-size: 50px;
+       }
+       .home_left h2 {
+           width: 250px;
+           font-family: 'Myriad Pro';
+           color: #fff;
+           font-size: 30px;
+       }
+       .d_section {
+           max-width: 720px;
+           padding: 80px 20px;
+           margin: 0 auto;
+       }
+       .resent_produt_one {
+           width: 350px;
+           height: 190px;
+       }
+       .resent_produt_tow {
+           width: 300px;
+           height: 170px;
+       }
+       .resent_produt_tow_one {
+           margin: 15px auto;
+           width: 300px;
+           height: 170px;
+       }
+       .sub_resent_section {
+           width: 720px;
+           margin: 0 auto;
+       }
+       .table_class table img {
+           width: 150px;
+       }
+       .table_class table tbody tr td {
+           max-width: 650px;
+           padding: 10px;
+       }
+       .table_class table tbody tr td {
+           max-width: 350px;
+           padding: 10px;
+       }
+       
+       .table_class table tbody tr td p {
+        text-align: center;
+        width: 200px;
+        margin: 0 auto;
+    }
+    .sub_footer_ago {
+        width: 700px;
+    }
+    .contact_form_div {
+        width: 700px;
+    }
+    .contact_form_right img {
+        border-radius: 15px;
+        width: 320px;
+        
+    }
+    .footer table p {width: 700px;}
+}
